@@ -1,0 +1,22 @@
+/* 1975 Carousel Slideshow - v.0 */
+/* 1975 Carousel Slideshow - v.0 */
+.photoCarousel1975 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.photoCarousel1975 li {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
