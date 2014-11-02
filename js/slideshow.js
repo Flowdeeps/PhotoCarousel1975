@@ -6,9 +6,9 @@ $(window).ready(function(){
   $('body').append($(audioOb));
   var audioEl = $("audio");
   $(audioEl)
-  .attr('src', drone) // default
-  .attr('loop', true)
-  .attr('autoplay', true);
+      .attr('src', drone) // default
+      .attr('loop', true)
+      .attr('autoplay', true);
 
   $('.photoCarousel1975').each(function(){
     var pc1975 = $(this);
@@ -30,10 +30,15 @@ $(window).ready(function(){
       $(img).remove();
     });
     var transition = setInterval(function(){
-      $(audioEl).attr('src', advance);
+      $(audioEl)
+          .attr('src', advance)
+          .attr('loop', false);
       $(slide).animate({
+        // 'left': (-w_width)
       }, function(){
-        $(audioEl).attr('src', drone);
+        $(audioEl)
+          .attr('src', drone)
+          .attr('loop', true);
       });
     }, 5000)
   });
