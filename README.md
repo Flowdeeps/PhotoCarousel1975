@@ -6,4 +6,8 @@ Once upon a time your grandfather would have gathered the family into the front-
 
 But you __can__ emulate the experience with the Slide Carousel 1975 gallery toy thing. I haven't thought the title through obviously. 
 
-Thanks to [soundslikewillem](http://www.freesound.org/people/soundslikewillem) on FreeSound.org for the royalty free track: http://www.freesound.org/people/soundslikewillem/sounds/174785/ used in this monumental waste of effort and of course [Robin](https://github.com/robinnorth) and Sarah for having 2 million f*****g photos from their honeymoon in New York. Congrats you douchebags.
+Thanks to [soundslikewillem](http://www.freesound.org/people/soundslikewillem) on FreeSound.org for the royalty free track: http://www.freesound.org/people/soundslikewillem/sounds/174785/ used in this monumental waste of effort.
+
+The demo images are courtesy of [Suzi Duke](https://www.flickr.com/photos/suzijane/), (Karen Eliot)[https://www.flickr.com/photos/kareneliot/], and [Gillett's Crossing](https://www.flickr.com/photos/83763404@N07/).
+
+Of course congratulations to [Robin](https://github.com/robinnorth) and Sarah for having 2 million f*****g photos from their honeymoon in New York. Congrats you douchebags.
